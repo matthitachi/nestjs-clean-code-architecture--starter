@@ -10,7 +10,7 @@
 6. `npm run start:dev`
 
 ## Instructions
-Visit [Building a (NestJS) Application with Clean Architecture](http://localhost:3000)
+Visit [Building a (NestJS) Application with Clean Architecture](https://medium.com/@matthitachi/building-a-nestjs-application-with-clean-architecture-e3328e4fdf3f)
 
 ## Structure
 
